@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inter2025", "inter2025\inter2025.csproj", "{16D41353-0342-4C02-9AD2-E7B1C73E3FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D41353-0342-4C02-9AD2-E7B1C73E3FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D41353-0342-4C02-9AD2-E7B1C73E3FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D41353-0342-4C02-9AD2-E7B1C73E3FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D41353-0342-4C02-9AD2-E7B1C73E3FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B57211-E1C8-4733-85B4-3F46FFA57373}
+	EndGlobalSection
+EndGlobal

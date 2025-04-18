@@ -1,0 +1,14 @@
+D:\company\0125\vs\inter2025\inter2025\bin\Release\net8.0\inter2025.exe
+D:\company\0125\vs\inter2025\inter2025\bin\Release\net8.0\inter2025.deps.json
+D:\company\0125\vs\inter2025\inter2025\bin\Release\net8.0\inter2025.runtimeconfig.json
+D:\company\0125\vs\inter2025\inter2025\bin\Release\net8.0\inter2025.dll
+D:\company\0125\vs\inter2025\inter2025\bin\Release\net8.0\inter2025.pdb
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.AssemblyInfoInputs.cache
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.AssemblyInfo.cs
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.csproj.CoreCompileInputs.cache
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.dll
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\refint\inter2025.dll
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.pdb
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\inter2025.genruntimeconfig.cache
+D:\company\0125\vs\inter2025\inter2025\obj\Release\net8.0\ref\inter2025.dll
